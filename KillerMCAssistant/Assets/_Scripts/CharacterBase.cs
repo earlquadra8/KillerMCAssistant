@@ -8,7 +8,6 @@ public abstract class CharacterBase : MonoBehaviour
     public int characterId;
 
     #region Unity Mono   
-
     void Start ()
     {
         		
